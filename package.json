@@ -1,0 +1,23 @@
+{
+  "name": "blogs-api",
+  "version": "1.0.0",
+  "description": "Blog post custom api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudAhmadOsman/blogs-api.git"
+  },
+  "author": "Mahmoud Osman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahmoudAhmadOsman/blogs-api/issues"
+  },
+  "homepage": "https://github.com/MahmoudAhmadOsman/blogs-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
