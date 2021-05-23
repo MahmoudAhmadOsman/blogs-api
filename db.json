@@ -162,7 +162,7 @@
     }
   ],
   "events": [
-     {
+       {
       "id": 1,
       "title": "UX Design Workshop",
       "imageURL": "https://source.unsplash.com/1600x900/?nurse",
@@ -172,6 +172,7 @@
       "description": "In this workshop we will be going over the best UX practices and talking about new trends and etc…",
       "city": "Bronx",
       "state": "NY",
+      "zipCode": "10469",
       "location": "5 Evergreen Avenue",
       "createdAt": "1-25-2021"
     },
@@ -185,6 +186,7 @@
       "description": "We will be going over fashion trends that are coming out this spring. We will also be looking at any fashion made by you…",
       "city": "New York City",
       "state": "NY",
+      "zipCode": "11225",
       "location": "9 Fremont Plaza",
       "createdAt": "1-10-2020"
     },
@@ -198,6 +200,7 @@
       "description": "In this event we will talk about how we women can start out own business. We will go through business basics and more…",
       "city": "Brooklyn",
       "state": "NY",
+      "zipCode": "10034",
       "location": "76017 Spaight Street",
       "createdAt": "1-4-2021"
     },
@@ -211,6 +214,7 @@
       "description": "In this workshop we will be going over the best UX practices and talking about new trends and etc…",
       "city": "Albany",
       "state": "NY",
+      "zipCode": "12227",
       "location": "77964 7th Road",
       "createdAt": "10-10-2021"
     },
@@ -224,6 +228,7 @@
       "description": "We will be going over fashion trends that are coming out this spring. We will also be looking at any fashion made by you…",
       "city": "Syracuse",
       "state": "NY",
+      "zipCode": "10474",
       "location": "4 Golf Course Court",
       "createdAt": "11-6-2021"
     },
@@ -237,6 +242,7 @@
       "description": "In this event we will talk about how we women can start out own business. We will go through business basics and more…",
       "city": "New York City",
       "state": "NY",
+      "zipCode": "10292",
       "location": "35970 Dahle Circle",
       "createdAt": "8-15-2021"
     }
