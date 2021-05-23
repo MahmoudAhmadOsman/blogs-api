@@ -160,5 +160,79 @@
       "author": "Erica Dufty",
       "PublishedDate": "5/7/2020"
     }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Registered Nurse",
+      "imageURL": "https://source.unsplash.com/1600x900/?nurse",
+      "price": "18.65",
+      "seats": 30,
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+      "city": "Bronx",
+      "state": "NY",
+      "location": "5 Evergreen Avenue",
+      "createdAt": "1-25-2021"
+    },
+    {
+      "id": 2,
+      "title": "Health Coach II",
+      "imageURL": "https://source.unsplash.com/1600x900/?health",
+      "price": "17.55",
+      "seats": 36,
+      "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+      "city": "New York City",
+      "state": "NY",
+      "location": "9 Fremont Plaza",
+      "createdAt": "1-10-2020"
+    },
+    {
+      "id": 3,
+      "title": "Account Coordinator",
+      "imageURL": "https://source.unsplash.com/1600x900/?account",
+      "price": "22.00",
+      "seats": 26,
+      "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+      "city": "Brooklyn",
+      "state": "NY",
+      "location": "76017 Spaight Street",
+      "createdAt": "1-4-2021"
+    },
+    {
+      "id": 4,
+      "title": "Project Manager",
+      "imageURL": "https://source.unsplash.com/1600x900/?manager",
+      "price": "18.58",
+      "seats": 37,
+      "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "city": "Albany",
+      "state": "NY",
+      "location": "77964 7th Road",
+      "createdAt": "10-10-2021"
+    },
+    {
+      "id": 5,
+      "title": "Marketing Manager",
+      "imageURL": "https://source.unsplash.com/1600x900/?marketing",
+      "price": "17.12",
+      "seats": 19,
+      "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+      "city": "Syracuse",
+      "state": "NY",
+      "location": "4 Golf Course Court",
+      "createdAt": "11-6-2021"
+    },
+    {
+      "id": 6,
+      "title": "Operator",
+      "imageURL": "https://source.unsplash.com/1600x900/?operator",
+      "price": "23.99",
+      "seats": 35,
+      "description": "Sed ante. Vsivamus tortor. Duis mattis egestas metus.",
+      "city": "New York City",
+      "state": "NY",
+      "location": "35970 Dahle Circle",
+      "createdAt": "8-15-2021"
+    }
   ]
 }
