@@ -175,7 +175,8 @@
       "state": "NY",
       "zipCode": "10469",
       "location": "5 Evergreen Avenue",
-      "publishedDate": "4/16/2021"
+      "publishedDate": "4/16/2021",
+        "time":"7:00 PM"
     },
     {
       "id": 2,
@@ -190,7 +191,8 @@
       "state": "NY",
       "zipCode": "11225",
       "location": "9 Fremont Plaza",
-      "publishedDate": "1/10/2021"
+      "publishedDate": "1/10/2021",
+      "time":"8:00 PM"
     },
     {
       "id": 3,
@@ -205,7 +207,8 @@
       "state": "NY",
       "zipCode": "10034",
       "location": "76017 Spaight Street",
-      "publishedDate": "1/4/2021"
+      "publishedDate": "1/4/2021",
+      "time":"12:00 PM",
     },
     {
       "id": 4,
@@ -220,7 +223,8 @@
       "state": "NY",
       "zipCode": "12227",
       "location": "77964 7th Road",
-      "publishedDate": "2/10/2021"
+      "publishedDate": "2/10/2021",
+      "time":"7:00 PM",
     },
     {
       "id": 5,
@@ -235,7 +239,8 @@
       "state": "NY",
       "zipCode": "10474",
       "location": "4 Golf Course Court",
-      "publishedDate": "3/6/2021"
+      "publishedDate": "3/6/2021",
+      "time":"8:00 PM",
     },
     {
       "id": 6,
@@ -250,7 +255,8 @@
       "state": "NY",
       "zipCode": "10292",
       "location": "35970 Dahle Circle",
-      "publishedDate": "5/15/2021"
+      "publishedDate": "5/15/2021",
+      "time":"12:00 PM",
     }
   ]
 }
