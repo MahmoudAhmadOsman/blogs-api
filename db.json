@@ -208,7 +208,7 @@
       "zipCode": "10034",
       "location": "76017 Spaight Street",
       "publishedDate": "1/4/2021",
-      "time":"12:00 PM",
+      "time":"12:00 PM"
     },
     {
       "id": 4,
@@ -224,7 +224,7 @@
       "zipCode": "12227",
       "location": "77964 7th Road",
       "publishedDate": "2/10/2021",
-      "time":"7:00 PM",
+      "time":"7:00 PM"
     },
     {
       "id": 5,
@@ -240,7 +240,7 @@
       "zipCode": "10474",
       "location": "4 Golf Course Court",
       "publishedDate": "3/6/2021",
-      "time":"8:00 PM",
+      "time":"8:00 PM"
     },
     {
       "id": 6,
@@ -256,7 +256,7 @@
       "zipCode": "10292",
       "location": "35970 Dahle Circle",
       "publishedDate": "5/15/2021",
-      "time":"12:00 PM",
+      "time":"12:00 PM"
     }
   ]
 }
