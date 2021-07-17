@@ -165,7 +165,7 @@
     {
       "id": 1,
       "title": "UX Design Workshop",
-      "imageURL": "images/workshop.png",
+      "imageURL": "https://source.unsplash.com/1600x900/?nurse",
       "price": "64.99",
       "soldOut": "",
       "seats": 30,
