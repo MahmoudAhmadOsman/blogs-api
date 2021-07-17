@@ -162,10 +162,10 @@
     }
   ],
   "events": [
-      {
+    {
       "id": 1,
       "title": "UX Design Workshop",
-      "imageURL": "https://source.unsplash.com/1600x900/?nurse",
+      "imageURL": "images/ux-desing-workshop.png",
       "price": "64.99",
       "soldOut": "",
       "seats": 30,
@@ -176,7 +176,7 @@
       "zipCode": "10469",
       "location": "5 Evergreen Avenue",
       "publishedDate": "4/25/2021",
-        "time":"7:00 PM"
+      "time": "7:00 PM"
     },
     {
       "id": 2,
@@ -192,7 +192,7 @@
       "zipCode": "11225",
       "location": "9 Fremont Plaza",
       "publishedDate": "5/4/2021",
-      "time":"8:00 PM"
+      "time": "8:00 PM"
     },
     {
       "id": 3,
@@ -208,7 +208,7 @@
       "zipCode": "10034",
       "location": "76017 Spaight Street",
       "publishedDate": "5/2/2021",
-      "time":"12:00 PM"
+      "time": "12:00 PM"
     },
     {
       "id": 4,
@@ -224,7 +224,7 @@
       "zipCode": "12227",
       "location": "77964 7th Road",
       "publishedDate": "4/25/2021",
-      "time":"7:00 PM"
+      "time": "7:00 PM"
     },
     {
       "id": 5,
@@ -240,7 +240,7 @@
       "zipCode": "10474",
       "location": "4 Golf Course Court",
       "publishedDate": "5/4/2021",
-      "time":"8:00 PM"
+      "time": "8:00 PM"
     },
     {
       "id": 6,
@@ -256,7 +256,7 @@
       "zipCode": "10292",
       "location": "35970 Dahle Circle",
       "publishedDate": "5/2/2021",
-      "time":"12:00 PM"
+      "time": "12:00 PM"
     }
   ]
 }
