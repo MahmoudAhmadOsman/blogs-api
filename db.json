@@ -266,7 +266,7 @@
       "price": "$11.49",
       "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
       "review": 333,
-      "meal_image": "http://dummyimage.com/250x.png/ff4444/ffffff"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger"
     },
     {
       "id": 2,
@@ -274,7 +274,7 @@
       "price": "$12.60",
       "description": "In congue. Etiam justo. Etiam pretium iaculis justo.",
       "review": 16,
-      "meal_image": "http://dummyimage.com/250x.png/ff4444/ffffff"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/cheeseburger"
     },
     {
       "id": 3,
@@ -282,7 +282,7 @@
       "price": "$5.44",
       "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
       "review": 147,
-      "meal_image": "http://dummyimage.com/250x.png/ff4444/ffffff"
+      "meal_image": "https://source.unsplash.com/1500x1450/?hamburger/banquet"
     },
     {
       "id": 4,
@@ -290,7 +290,7 @@
       "price": "$11.34",
       "description": "In congue. Etiam justo. Etiam pretium iaculis justo.",
       "review": 42,
-      "meal_image": "http://dummyimage.com/250x.png/5fa2dd/ffffff"
+      "meal_image": "https://source.unsplash.com/1500x1450/?hamburger/chicken"
     },
     {
       "id": 5,
@@ -298,7 +298,7 @@
       "price": "$10.84",
       "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
       "review": 397,
-      "meal_image": "http://dummyimage.com/250x.png/cc0000/ffffff"
+      "meal_image": "https://source.unsplash.com/1500x1450/?hamburger/beef"
     },
     {
       "id": 6,
@@ -306,7 +306,7 @@
       "price": "$13.64",
       "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
       "review": 21,
-      "meal_image": "http://dummyimage.com/250x.png/5fa2dd/ffffff"
+      "meal_image": "https://source.unsplash.com/1500x1450/?hamburger/tomotoes"
     },
     {
       "id": 7,
@@ -314,7 +314,7 @@
       "price": "$11.37",
       "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
       "review": 355,
-      "meal_image": "http://dummyimage.com/250x.png/cc0000/ffffff"
+      "meal_image": "https://source.unsplash.com/1500x1450/?hamburger/banquet"
     },
     {
       "id": 8,
@@ -322,7 +322,7 @@
       "price": "$12.67",
       "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
       "review": 215,
-      "meal_image": "http://dummyimage.com/250x.png/dddddd/000000"
+      "meal_image": "https://source.unsplash.com/1500x1450/?hamburger/fish"
     },
     {
       "id": 9,
@@ -330,7 +330,7 @@
       "price": "$11.69",
       "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
       "review": 370,
-      "meal_image": "http://dummyimage.com/250x.png/5fa2dd/ffffff"
+      "meal_image": "https://source.unsplash.com/1500x1450/?hamburger/tuna"
     },
     {
       "id": 10,
@@ -338,7 +338,7 @@
       "price": "$13.07",
       "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
       "review": 31,
-      "meal_image": "http://dummyimage.com/250x.png/ff4444/ffffff"
+      "meal_image": "https://source.unsplash.com/1500x1450/?hamburger/fries"
     }
   ],
   "ggag_drinks_api": [
