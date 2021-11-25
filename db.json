@@ -306,7 +306,7 @@
       "price": "$13.64",
       "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
       "review": 21,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/tomotoes"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/meat"
     },
     {
       "id": 7,
@@ -338,7 +338,7 @@
       "price": "$13.07",
       "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
       "review": 31,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/fries"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/meat"
     }
   ],
   "ggag_drinks_api": [
