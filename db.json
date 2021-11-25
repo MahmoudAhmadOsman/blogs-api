@@ -278,7 +278,7 @@
     },
     {
       "id": 3,
-      "name": "Mepivacaine Hydrochloride",
+      "name": "Mepivacaine",
       "price": "$5.44",
       "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
       "review": 147,
@@ -286,7 +286,7 @@
     },
     {
       "id": 4,
-      "name": "glycerin, phenylephrine HCl, pramoxine HCl, white petrolatum",
+      "name": "Glycerin",
       "price": "$11.34",
       "description": "In congue. Etiam justo. Etiam pretium iaculis justo.",
       "review": 42,
@@ -294,7 +294,7 @@
     },
     {
       "id": 5,
-      "name": "Aluminum Sesquichlorohydrate",
+      "name": "Aluminum",
       "price": "$10.84",
       "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
       "review": 397,
@@ -302,7 +302,7 @@
     },
     {
       "id": 6,
-      "name": "acetaminophen and codeine phosphate",
+      "name": "Acetaminophen",
       "price": "$13.64",
       "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
       "review": 21,
@@ -310,7 +310,7 @@
     },
     {
       "id": 7,
-      "name": "Titanium Dioxide",
+      "name": "Titanium",
       "price": "$11.37",
       "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
       "review": 355,
@@ -318,7 +318,7 @@
     },
     {
       "id": 8,
-      "name": "Paroxetine Hydrochloride",
+      "name": "Paroxetine",
       "price": "$12.67",
       "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
       "review": 215,
@@ -334,7 +334,7 @@
     },
     {
       "id": 10,
-      "name": "HydrALAZINE Hydrochloride",
+      "name": "HydrALAZINE",
       "price": "$13.07",
       "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
       "review": 31,
