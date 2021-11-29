@@ -259,7 +259,7 @@
       "time": "12:00 PM"
     }
   ],
-  "ggag_meals": [
+  "meals_api": [
     {
       "id": 1,
       "name": "Olanzapine",
@@ -341,7 +341,7 @@
       "meal_image": "https://source.unsplash.com/1500x500/?hamburger/meat"
     }
   ],
-  "ggag_drinks_api": [
+  "drinks_api": [
     {
       "id": 1,
       "name": "Regrant Coffee",
