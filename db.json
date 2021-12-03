@@ -278,7 +278,7 @@
       "price": "$12.60",
       "description": "In congue. Etiam justo. Etiam pretium iaculis justo.",
       "review": 16,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/cheeseburger"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/cheeseburger",
       "calories":250,
       "fiber": 45,
       "protein": 92,
