@@ -266,7 +266,11 @@
       "price": "$11.49",
       "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
       "review": 333,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger",
+      "calories": 190,
+      "fiber": 25,
+      "protein": 62,
+      "carbs":32
     },
     {
       "id": 2,
@@ -275,6 +279,10 @@
       "description": "In congue. Etiam justo. Etiam pretium iaculis justo.",
       "review": 16,
       "meal_image": "https://source.unsplash.com/1500x500/?hamburger/cheeseburger"
+      "calories":250,
+      "fiber": 45,
+      "protein": 92,
+      "carbs":45
     },
     {
       "id": 3,
@@ -282,7 +290,11 @@
       "price": "$5.44",
       "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
       "review": 147,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/banquet"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/banquet",
+      "calories": 390,
+      "fiber": 125,
+      "protein": 72,
+      "carbs":61
     },
     {
       "id": 4,
@@ -290,7 +302,11 @@
       "price": "$11.34",
       "description": "In congue. Etiam justo. Etiam pretium iaculis justo.",
       "review": 42,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/sandwich"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/sandwich",
+      "calories": 170,
+      "fiber": 65,
+      "protein": 32,
+      "carbs":22
     },
     {
       "id": 5,
@@ -298,7 +314,11 @@
       "price": "$10.84",
       "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
       "review": 397,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/beef"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/beef",
+      "calories": 120,
+      "fiber": 21,
+      "protein": 54,
+      "carbs":31
     },
     {
       "id": 6,
@@ -306,7 +326,11 @@
       "price": "$13.64",
       "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
       "review": 21,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/meat"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/meat",
+      "calories": 240,
+      "fiber": 72,
+      "protein": 32,
+      "carbs":34
     },
     {
       "id": 7,
@@ -314,7 +338,11 @@
       "price": "$11.37",
       "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
       "review": 355,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/banquet"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/banquet",
+      "calories": 154,
+      "fiber": 16,
+      "protein": 32,
+      "carbs":12
     },
     {
       "id": 8,
@@ -322,7 +350,11 @@
       "price": "$12.67",
       "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
       "review": 215,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/fish"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/fish",
+      "calories": 212,
+      "fiber": 31,
+      "protein": 41,
+      "carbs":17
     },
     {
       "id": 9,
@@ -330,7 +362,11 @@
       "price": "$11.69",
       "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
       "review": 370,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/tuna"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/tuna",
+      "calories": 142,
+      "fiber": 43,
+      "protein": 19,
+      "carbs":14
     },
     {
       "id": 10,
@@ -338,7 +374,11 @@
       "price": "$13.07",
       "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
       "review": 31,
-      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/meat"
+      "meal_image": "https://source.unsplash.com/1500x500/?hamburger/meat",
+      "calories": 186,
+      "fiber": 43,
+      "protein": 21,
+      "carbs":12
     }
   ],
   "drinks_api": [
